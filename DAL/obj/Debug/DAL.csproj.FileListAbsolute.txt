@@ -1,0 +1,9 @@
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.dll
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.pdb
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DTO.dll
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DTO.pdb
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.dll
+E:\DoAn1_QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.pdb
